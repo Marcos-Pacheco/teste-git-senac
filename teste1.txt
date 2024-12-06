@@ -1,1 +1,1 @@
-este é um arquivo de teste do professor Marcos Pachêco, essa alteração sera se vai dar
+este é um arquivo de teste do professor Marcos Pachêco, essa alteração vai dar conflito
